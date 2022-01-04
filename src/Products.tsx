@@ -1,5 +1,5 @@
 import { products } from './atoms/products'
-import { useFetch } from './hooks/useFecth'
+import { useFetch } from './hooks/useFetch'
 
 type Product = {
   id: number;
